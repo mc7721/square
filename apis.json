@@ -1,0 +1,140 @@
+{
+    "name": "Square",
+    "description": "Square, Inc. is a financial services, merchant services aggregator, and mobile payment company based in San Francisco, California.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/2176-square.jpg",
+    "tags": [
+        "commerce",
+        "credit cards",
+        "financial services",
+        "have api",
+        "have swagger",
+        "payments",
+        "relative data",
+        "service api",
+        "streams",
+        "webhook implementations"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/square\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Square Connect",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/2176-square.jpg",
+            "humanURL": "http:\/\/squ.re\/flint",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/square-connect-openapi.json"
+                },
+                {
+                    "type": "x-openapi",
+                    "url": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/openapis\/square-connect.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "http:\/\/squ.re\/flint"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/square.com"
+        },
+        {
+            "type": "Base",
+            "url": "https:\/\/connect.squareup.com"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/square"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/square"
+        },
+        {
+            "type": "Developers",
+            "url": "https:\/\/connect.squareup.com\/"
+        },
+        {
+            "type": "Email",
+            "url": "press@squareup.com"
+        },
+        {
+            "type": "Email",
+            "url": "security@squareup.com"
+        },
+        {
+            "type": "Email",
+            "url": "lawenforcement@squareup.com"
+        },
+        {
+            "type": "Email",
+            "url": "redemption@squareup.com"
+        },
+        {
+            "type": "Email",
+            "url": "privacy@squareup.com"
+        },
+        {
+            "type": "Email",
+            "url": "community@squareup.com"
+        },
+        {
+            "type": "Email",
+            "url": "noreply@messaging.squareup.com"
+        },
+        {
+            "type": "Email",
+            "url": "ir@squareup.com"
+        },
+        {
+            "type": "Email",
+            "url": "takedowns@squareup.com"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/square"
+        },
+        {
+            "type": "LinkedIn",
+            "url": "https:\/\/www.linkedin.com\/company\/square--\/"
+        },
+        {
+            "type": "Swagger",
+            "url": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-definitions\/swagger\/2176-2019-09-03-16-05-31.json"
+        },
+        {
+            "type": "Swagger",
+            "url": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-definitions\/swagger\/2176-2019-09-03-16-52-52.json"
+        },
+        {
+            "type": "Swagger",
+            "url": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-definitions\/swagger\/2176-2019-09-03-16-56-13.json"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/Square"
+        },
+        {
+            "type": "Webhooks",
+            "url": "https:\/\/docs.connect.squareup.com\/basics\/api101\/webhooks"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/squareup.com"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/squareup.com"
+        }
+    ]
+}
