@@ -1,5 +1,5 @@
 {
-    "id": "a18b91ab48f711d8a3f2996d73ff0079",
+    "id": "8d61a8634e17b514afbf5eb1e3a0c528",
     "name": "Square Connect",
     "description": null,
     "auth": null,
@@ -10,7 +10,7 @@
     "folders": [],
     "requests": [
         {
-            "id": "ece179dde8a4c38cdce9b2fb573f316e",
+            "id": "c6d892a9fbd44a1172b50b05df46dfa7",
             "name": "Get Customers",
             "url": "http:\/\/connect.squareup.com\/\/v2\/customers",
             "description": "Lists a business's customers.",
@@ -37,11 +37,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "a18b91ab48f711d8a3f2996d73ff0079",
+            "collectionId": "8d61a8634e17b514afbf5eb1e3a0c528",
             "rawModeData": ""
         },
         {
-            "id": "dfdfe78bc6e20811d96207ff68f0d93a",
+            "id": "ffdcff9688bf814baeefa38362c7fbca",
             "name": "Post Customers",
             "url": "http:\/\/connect.squareup.com\/\/v2\/customers",
             "description": "Creates a new customer for the business, which can have associated cards on file.",
@@ -60,11 +60,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "a18b91ab48f711d8a3f2996d73ff0079",
+            "collectionId": "8d61a8634e17b514afbf5eb1e3a0c528",
             "rawModeData": ""
         },
         {
-            "id": "35c07902dd401ff01d540995327488ac",
+            "id": "cf1bfd234a627b10184fa358c4e82797",
             "name": "Delete Customers",
             "url": "http:\/\/connect.squareup.com\/\/v2\/customers\/{customer_id}",
             "description": "Deletes a customer from a business.",
@@ -91,11 +91,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "a18b91ab48f711d8a3f2996d73ff0079",
+            "collectionId": "8d61a8634e17b514afbf5eb1e3a0c528",
             "rawModeData": ""
         },
         {
-            "id": "f83f383d612fd252d5b874c19c779a59",
+            "id": "1280400ed67ab76b69298729886f08f8",
             "name": "Get Customers",
             "url": "http:\/\/connect.squareup.com\/\/v2\/customers\/{customer_id}",
             "description": "Returns details for a single customer.",
@@ -122,11 +122,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "a18b91ab48f711d8a3f2996d73ff0079",
+            "collectionId": "8d61a8634e17b514afbf5eb1e3a0c528",
             "rawModeData": ""
         },
         {
-            "id": "e3ee9512e5a1199c3288edf21cbdc067",
+            "id": "e0a0ce5d85f1340b4f63bc7b970827b1",
             "name": "Put Customers",
             "url": "http:\/\/connect.squareup.com\/\/v2\/customers\/{customer_id}",
             "description": "Updates the details of an existing customer.",
@@ -153,11 +153,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "a18b91ab48f711d8a3f2996d73ff0079",
+            "collectionId": "8d61a8634e17b514afbf5eb1e3a0c528",
             "rawModeData": ""
         },
         {
-            "id": "3c65012a1ab6f77ebe847fd98bce140f",
+            "id": "100bc44f22118f3e2ba8996b5085a98d",
             "name": "Post Customers Cards",
             "url": "http:\/\/connect.squareup.com\/\/v2\/customers\/{customer_id}\/cards",
             "description": "Adds a card on file to an existing customer.",
@@ -184,11 +184,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "a18b91ab48f711d8a3f2996d73ff0079",
+            "collectionId": "8d61a8634e17b514afbf5eb1e3a0c528",
             "rawModeData": ""
         },
         {
-            "id": "cf622caad5252f332c5b3e3bb41fa8c3",
+            "id": "b821f82863d9de6719f1b7028bc82c0b",
             "name": "Delete Customers Cards",
             "url": "http:\/\/connect.squareup.com\/\/v2\/customers\/{customer_id}\/cards\/{card_id}",
             "description": "Removes a card on file from a customer.",
@@ -222,11 +222,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "a18b91ab48f711d8a3f2996d73ff0079",
+            "collectionId": "8d61a8634e17b514afbf5eb1e3a0c528",
             "rawModeData": ""
         },
         {
-            "id": "bb3d452336e1580f0653cd021034b075",
+            "id": "fdf4483488067a9c43436e62c5090222",
             "name": "Get Locations",
             "url": "http:\/\/connect.squareup.com\/\/v2\/locations",
             "description": "Provides summary information for all of a business's locations.",
@@ -245,11 +245,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "a18b91ab48f711d8a3f2996d73ff0079",
+            "collectionId": "8d61a8634e17b514afbf5eb1e3a0c528",
             "rawModeData": ""
         },
         {
-            "id": "45bef706f2a99db08af3ec58c2c0c46e",
+            "id": "db16e3ba2fa7eeeec6db353a337792c7",
             "name": "Get Locations Refunds",
             "url": "http:\/\/connect.squareup.com\/\/v2\/locations\/{location_id}\/refunds",
             "description": "Lists refunds for one of a business's locations.",
@@ -304,11 +304,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "a18b91ab48f711d8a3f2996d73ff0079",
+            "collectionId": "8d61a8634e17b514afbf5eb1e3a0c528",
             "rawModeData": ""
         },
         {
-            "id": "4368fc2a55b958feef04e31cbde933a9",
+            "id": "45d1f87c69cdee4d8151b398259d03fb",
             "name": "Get Locations Transactions",
             "url": "http:\/\/connect.squareup.com\/\/v2\/locations\/{location_id}\/transactions",
             "description": "Lists transactions for a particular location.\n\nWhen making a request to this endpoint, your request body **must** include either the `cursor` parameter, or it must\ninclude both `begin_time` and `end_time` with an optional `sort_order`.",
@@ -363,11 +363,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "a18b91ab48f711d8a3f2996d73ff0079",
+            "collectionId": "8d61a8634e17b514afbf5eb1e3a0c528",
             "rawModeData": ""
         },
         {
-            "id": "d23fde999ff6586740f140d019a3bfe5",
+            "id": "15ead73f36cd094a3dbc974f76ca3047",
             "name": "Post Locations Transactions",
             "url": "http:\/\/connect.squareup.com\/\/v2\/locations\/{location_id}\/transactions",
             "description": "Charges a card represented by a token.",
@@ -394,11 +394,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "a18b91ab48f711d8a3f2996d73ff0079",
+            "collectionId": "8d61a8634e17b514afbf5eb1e3a0c528",
             "rawModeData": ""
         },
         {
-            "id": "e8e729c7eb9305fbb042e41ed1c15d43",
+            "id": "4513b265c061e949756f85d5390f3a95",
             "name": "Get Locations Transactions",
             "url": "http:\/\/connect.squareup.com\/\/v2\/locations\/{location_id}\/transactions\/{transaction_id}",
             "description": "Retrieves details for a single transaction.",
@@ -432,11 +432,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "a18b91ab48f711d8a3f2996d73ff0079",
+            "collectionId": "8d61a8634e17b514afbf5eb1e3a0c528",
             "rawModeData": ""
         },
         {
-            "id": "68fb26300842dd35486cd3c10bc794e1",
+            "id": "bb49d688c4cdb235a4bd92555a2871b7",
             "name": "Post Locations Transactions Capture",
             "url": "http:\/\/connect.squareup.com\/\/v2\/locations\/{location_id}\/transactions\/{transaction_id}\/capture",
             "description": "Captures a transaction that was created with the **Charge**\nendpoint with a `delay_capture` value of `true`.",
@@ -470,11 +470,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "a18b91ab48f711d8a3f2996d73ff0079",
+            "collectionId": "8d61a8634e17b514afbf5eb1e3a0c528",
             "rawModeData": ""
         },
         {
-            "id": "af79675d7369098aa5bc8f91a70b86b1",
+            "id": "5dd7ccbdbadd01d0673ceccaeadb720d",
             "name": "Post Locations Transactions Refund",
             "url": "http:\/\/connect.squareup.com\/\/v2\/locations\/{location_id}\/transactions\/{transaction_id}\/refund",
             "description": "Initiates a refund for a previously charged tender.",
@@ -508,11 +508,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "a18b91ab48f711d8a3f2996d73ff0079",
+            "collectionId": "8d61a8634e17b514afbf5eb1e3a0c528",
             "rawModeData": ""
         },
         {
-            "id": "3fe483c0e7288e8a4798c906dce8b413",
+            "id": "1c6880ec189f90a619202864a30f7175",
             "name": "Post Locations Transactions Void",
             "url": "http:\/\/connect.squareup.com\/\/v2\/locations\/{location_id}\/transactions\/{transaction_id}\/void",
             "description": "Cancels a transaction that was created with the **Charge**\nendpoint with a `delay_capture` value of `true`.",
@@ -546,11 +546,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "a18b91ab48f711d8a3f2996d73ff0079",
+            "collectionId": "8d61a8634e17b514afbf5eb1e3a0c528",
             "rawModeData": ""
         },
         {
-            "id": "c6cd7994bea5e6f280bd052dfd4dc6e7",
+            "id": "85e78b5c6f9c17bcb2a7b6eeb6551aed",
             "name": "Get Me",
             "url": "http:\/\/connect.squareup.com\/\/v1\/me",
             "description": "Get a business's information.",
@@ -569,11 +569,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "a18b91ab48f711d8a3f2996d73ff0079",
+            "collectionId": "8d61a8634e17b514afbf5eb1e3a0c528",
             "rawModeData": ""
         },
         {
-            "id": "25ee535af1b85d274082a7b805321ef5",
+            "id": "a75e9e17361c517a600cb9bbb61b1851",
             "name": "Get Me Employees",
             "url": "http:\/\/connect.squareup.com\/\/v1\/me\/employees",
             "description": "Provides summary information for all of a business's employees.",
@@ -656,11 +656,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "a18b91ab48f711d8a3f2996d73ff0079",
+            "collectionId": "8d61a8634e17b514afbf5eb1e3a0c528",
             "rawModeData": ""
         },
         {
-            "id": "57cd0cc55fb6e830d464fff783486bfb",
+            "id": "6f3dcd3e34f7878baaca65da347e013c",
             "name": "Post Me Employees",
             "url": "http:\/\/connect.squareup.com\/\/v1\/me\/employees",
             "description": "Creates an employee for a business.",
@@ -679,11 +679,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "a18b91ab48f711d8a3f2996d73ff0079",
+            "collectionId": "8d61a8634e17b514afbf5eb1e3a0c528",
             "rawModeData": ""
         },
         {
-            "id": "2e8f47c5e594ff515d36654a9a2b745b",
+            "id": "7d8b45eb5169957361f067cb3f8b0ac0",
             "name": "Get Me Employees",
             "url": "http:\/\/connect.squareup.com\/\/v1\/me\/employees\/{employee_id}",
             "description": "Provides the details for a single employee.",
@@ -710,11 +710,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "a18b91ab48f711d8a3f2996d73ff0079",
+            "collectionId": "8d61a8634e17b514afbf5eb1e3a0c528",
             "rawModeData": ""
         },
         {
-            "id": "ef6c95b954421b54a2ce5fb354cec590",
+            "id": "f7880ece6f76b021ba937fa5926cbd59",
             "name": "Put Me Employees",
             "url": "http:\/\/connect.squareup.com\/\/v1\/me\/employees\/{employee_id}",
             "description": "",
@@ -741,11 +741,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "a18b91ab48f711d8a3f2996d73ff0079",
+            "collectionId": "8d61a8634e17b514afbf5eb1e3a0c528",
             "rawModeData": ""
         },
         {
-            "id": "d106d79bbf50255beb75939875e11baa",
+            "id": "347cb5914ea8be992107024b14796041",
             "name": "Get Me Locations",
             "url": "http:\/\/connect.squareup.com\/\/v1\/me\/locations",
             "description": "Provides details for a business's locations, including their IDs.",
@@ -764,11 +764,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "a18b91ab48f711d8a3f2996d73ff0079",
+            "collectionId": "8d61a8634e17b514afbf5eb1e3a0c528",
             "rawModeData": ""
         },
         {
-            "id": "eb85c4c34d91ef83d68a469a7dc600af",
+            "id": "b551a4a049fcd56752ea6f9e2b22896a",
             "name": "Get Me Roles",
             "url": "http:\/\/connect.squareup.com\/\/v1\/me\/roles",
             "description": "Provides summary information for all of a business's employee roles.",
@@ -809,11 +809,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "a18b91ab48f711d8a3f2996d73ff0079",
+            "collectionId": "8d61a8634e17b514afbf5eb1e3a0c528",
             "rawModeData": ""
         },
         {
-            "id": "d3a761c00cd44b0ea304cb34069b56a8",
+            "id": "fb69cdb460caa6dcd455623eda8859a7",
             "name": "Post Me Roles",
             "url": "http:\/\/connect.squareup.com\/\/v1\/me\/roles",
             "description": "Creates an employee role you can then assign to employees.",
@@ -832,11 +832,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "a18b91ab48f711d8a3f2996d73ff0079",
+            "collectionId": "8d61a8634e17b514afbf5eb1e3a0c528",
             "rawModeData": ""
         },
         {
-            "id": "14736c0e1ec93cd4739d4891bbd08639",
+            "id": "a17a770c5459e5262b7e36e8a7288421",
             "name": "Get Me Roles",
             "url": "http:\/\/connect.squareup.com\/\/v1\/me\/roles\/{role_id}",
             "description": "Provides the details for a single employee role.",
@@ -863,11 +863,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "a18b91ab48f711d8a3f2996d73ff0079",
+            "collectionId": "8d61a8634e17b514afbf5eb1e3a0c528",
             "rawModeData": ""
         },
         {
-            "id": "af830d485a79618bf0785ad64c042e4a",
+            "id": "e4cc5b1234b7dcfdae6f3b425b491090",
             "name": "Put Me Roles",
             "url": "http:\/\/connect.squareup.com\/\/v1\/me\/roles\/{role_id}",
             "description": "Modifies the details of an employee role.",
@@ -894,11 +894,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "a18b91ab48f711d8a3f2996d73ff0079",
+            "collectionId": "8d61a8634e17b514afbf5eb1e3a0c528",
             "rawModeData": ""
         },
         {
-            "id": "335711d67b22309158b10ab2169b5a79",
+            "id": "3048884bca87591c03cf7706e527ff9d",
             "name": "Get Me Timecards",
             "url": "http:\/\/connect.squareup.com\/\/v1\/me\/timecards",
             "description": "Provides summary information for all of a business's employee timecards.",
@@ -995,11 +995,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "a18b91ab48f711d8a3f2996d73ff0079",
+            "collectionId": "8d61a8634e17b514afbf5eb1e3a0c528",
             "rawModeData": ""
         },
         {
-            "id": "df22d3cc1a98b25c1023f94f3b115153",
+            "id": "d5458ab82811e6cedd409418c0930622",
             "name": "Post Me Timecards",
             "url": "http:\/\/connect.squareup.com\/\/v1\/me\/timecards",
             "description": "Creates a timecard for an employee. Each timecard corresponds to a single shift.",
@@ -1018,11 +1018,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "a18b91ab48f711d8a3f2996d73ff0079",
+            "collectionId": "8d61a8634e17b514afbf5eb1e3a0c528",
             "rawModeData": ""
         },
         {
-            "id": "00695872472d6408e045b0b156ddc556",
+            "id": "88f158b3713792d1f92364d8887d2ea9",
             "name": "Delete Me Timecards",
             "url": "http:\/\/connect.squareup.com\/\/v1\/me\/timecards\/{timecard_id}",
             "description": "Deletes a timecard. Deleted timecards are still accessible from Connect API endpoints, but the value of their deleted field is set to true. See Handling deleted timecards for more information.",
@@ -1049,11 +1049,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "a18b91ab48f711d8a3f2996d73ff0079",
+            "collectionId": "8d61a8634e17b514afbf5eb1e3a0c528",
             "rawModeData": ""
         },
         {
-            "id": "aa3fe2bef945d89546a6bb90103eeba7",
+            "id": "ca9a73dc8aaebfea121adf0d7aa8de95",
             "name": "Get Me Timecards",
             "url": "http:\/\/connect.squareup.com\/\/v1\/me\/timecards\/{timecard_id}",
             "description": "Provides the details for a single timecard.",
@@ -1080,11 +1080,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "a18b91ab48f711d8a3f2996d73ff0079",
+            "collectionId": "8d61a8634e17b514afbf5eb1e3a0c528",
             "rawModeData": ""
         },
         {
-            "id": "9a384564c80039133dc37d1a70a848c3",
+            "id": "f95b2db05d646ff8134bae3e738c5dae",
             "name": "Put Me Timecards",
             "url": "http:\/\/connect.squareup.com\/\/v1\/me\/timecards\/{timecard_id}",
             "description": "Modifies a timecard's details. This creates an API_EDIT event for the timecard. You can view a timecard's event history with the List Timecard Events endpoint.",
@@ -1111,11 +1111,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "a18b91ab48f711d8a3f2996d73ff0079",
+            "collectionId": "8d61a8634e17b514afbf5eb1e3a0c528",
             "rawModeData": ""
         },
         {
-            "id": "bbae00660c9396e5ad79445b888d3caf",
+            "id": "e7dc68fecfc6d804bdceb02641a5a268",
             "name": "Get Me Timecards Events",
             "url": "http:\/\/connect.squareup.com\/\/v1\/me\/timecards\/{timecard_id}\/events",
             "description": "Provides summary information for all events associated with a particular timecard.",
@@ -1142,11 +1142,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "a18b91ab48f711d8a3f2996d73ff0079",
+            "collectionId": "8d61a8634e17b514afbf5eb1e3a0c528",
             "rawModeData": ""
         },
         {
-            "id": "4dee6fc0d6fbb307e8fa8d43f57bc8d4",
+            "id": "49fcc373c9d9275be51f171b4936d9d6",
             "name": "Get Location Bank Accounts",
             "url": "http:\/\/connect.squareup.com\/\/v1\/{location_id}\/bank-accounts",
             "description": "Provides non-confidential details for all of a location's associated bank accounts. This endpoint does not provide full bank account numbers, and there is no way to obtain a full bank account number with the Connect API.",
@@ -1173,11 +1173,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "a18b91ab48f711d8a3f2996d73ff0079",
+            "collectionId": "8d61a8634e17b514afbf5eb1e3a0c528",
             "rawModeData": ""
         },
         {
-            "id": "560d7a10d0569e261268f80716dfa86e",
+            "id": "a85dc8c7994a89140f312ac200cea222",
             "name": "Get Location Bank Accounts Bank Account",
             "url": "http:\/\/connect.squareup.com\/\/v1\/{location_id}\/bank-accounts\/{bank_account_id}",
             "description": "Provides non-confidential details for a merchant's associated bank account. This endpoint does not provide full bank account numbers, and there is no way to obtain a full bank account number with the Connect API.",
@@ -1211,11 +1211,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "a18b91ab48f711d8a3f2996d73ff0079",
+            "collectionId": "8d61a8634e17b514afbf5eb1e3a0c528",
             "rawModeData": ""
         },
         {
-            "id": "152272580811dce0fbb2aa931a39f4ef",
+            "id": "fc178987b39cf56f68f6b775de34df4f",
             "name": "Get Location Cash Drawer Shifts",
             "url": "http:\/\/connect.squareup.com\/\/v1\/{location_id}\/cash-drawer-shifts",
             "description": "Provides the details for all of a location's cash drawer shifts during a date range. The date range you specify cannot exceed 90 days.",
@@ -1263,11 +1263,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "a18b91ab48f711d8a3f2996d73ff0079",
+            "collectionId": "8d61a8634e17b514afbf5eb1e3a0c528",
             "rawModeData": ""
         },
         {
-            "id": "d028591dbb21747b85f4ca29dbbcaaf8",
+            "id": "f459fb7040aad74ba0c46fc0830691ca",
             "name": "Get Location Cash Drawer Shifts",
             "url": "http:\/\/connect.squareup.com\/\/v1\/{location_id}\/cash-drawer-shifts\/{shift_id}",
             "description": "Provides the details for a single cash drawer shift, including all events that occurred during the shift.",
@@ -1301,11 +1301,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "a18b91ab48f711d8a3f2996d73ff0079",
+            "collectionId": "8d61a8634e17b514afbf5eb1e3a0c528",
             "rawModeData": ""
         },
         {
-            "id": "87f740ad78e9942215d9e302b3318389",
+            "id": "48f7e68acc7e1cc595a4585207522385",
             "name": "Get Location Categories",
             "url": "http:\/\/connect.squareup.com\/\/v1\/{location_id}\/categories",
             "description": "Lists all of a location's item categories.",
@@ -1332,11 +1332,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "a18b91ab48f711d8a3f2996d73ff0079",
+            "collectionId": "8d61a8634e17b514afbf5eb1e3a0c528",
             "rawModeData": ""
         },
         {
-            "id": "faf67cb1fe8db0a080021e63702d4915",
+            "id": "02af52c354ed47133f34f602a5331840",
             "name": "Post Location Categories",
             "url": "http:\/\/connect.squareup.com\/\/v1\/{location_id}\/categories",
             "description": "Creates an item category.",
@@ -1363,11 +1363,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "a18b91ab48f711d8a3f2996d73ff0079",
+            "collectionId": "8d61a8634e17b514afbf5eb1e3a0c528",
             "rawModeData": ""
         },
         {
-            "id": "0651011c1bd0dfedce733e581254e901",
+            "id": "2ed99d00808d0b59357e5f16e2396359",
             "name": "Delete Location Categories Category",
             "url": "http:\/\/connect.squareup.com\/\/v1\/{location_id}\/categories\/{category_id}",
             "description": "Deletes an existing item category.",
@@ -1401,11 +1401,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "a18b91ab48f711d8a3f2996d73ff0079",
+            "collectionId": "8d61a8634e17b514afbf5eb1e3a0c528",
             "rawModeData": ""
         },
         {
-            "id": "12583044cc09f74690d4a670bf1a7a2a",
+            "id": "1105b169e83a9e044048baf5800abf1e",
             "name": "Put Location Categories Category",
             "url": "http:\/\/connect.squareup.com\/\/v1\/{location_id}\/categories\/{category_id}",
             "description": "Modifies the details of an existing item category.",
@@ -1439,11 +1439,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "a18b91ab48f711d8a3f2996d73ff0079",
+            "collectionId": "8d61a8634e17b514afbf5eb1e3a0c528",
             "rawModeData": ""
         },
         {
-            "id": "96c810919eecd399504c8831751bc6a2",
+            "id": "9b2b32d741e3467b3b840e6a3794ada7",
             "name": "Get Location Discounts",
             "url": "http:\/\/connect.squareup.com\/\/v1\/{location_id}\/discounts",
             "description": "Lists all of a location's discounts.",
@@ -1470,11 +1470,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "a18b91ab48f711d8a3f2996d73ff0079",
+            "collectionId": "8d61a8634e17b514afbf5eb1e3a0c528",
             "rawModeData": ""
         },
         {
-            "id": "31e01c78136e5f227d1cdc0eb39320aa",
+            "id": "1ed8524dd022937d12170db92656e5d9",
             "name": "Post Location Discounts",
             "url": "http:\/\/connect.squareup.com\/\/v1\/{location_id}\/discounts",
             "description": "Creates a discount.",
@@ -1501,11 +1501,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "a18b91ab48f711d8a3f2996d73ff0079",
+            "collectionId": "8d61a8634e17b514afbf5eb1e3a0c528",
             "rawModeData": ""
         },
         {
-            "id": "0b289e5d9ae8dc78f4c8bc7a5d32761b",
+            "id": "c5014a47e31bc199b86124bc0c8af042",
             "name": "Delete Location Discounts",
             "url": "http:\/\/connect.squareup.com\/\/v1\/{location_id}\/discounts\/{discount_id}",
             "description": "Deletes an existing discount.",
@@ -1539,11 +1539,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "a18b91ab48f711d8a3f2996d73ff0079",
+            "collectionId": "8d61a8634e17b514afbf5eb1e3a0c528",
             "rawModeData": ""
         },
         {
-            "id": "35ccf2a0bde8da045aeba3d1526094d8",
+            "id": "eab2e23b6517ef15861cc3552d6a4828",
             "name": "Put Location Discounts",
             "url": "http:\/\/connect.squareup.com\/\/v1\/{location_id}\/discounts\/{discount_id}",
             "description": "Modifies the details of an existing discount.",
@@ -1577,11 +1577,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "a18b91ab48f711d8a3f2996d73ff0079",
+            "collectionId": "8d61a8634e17b514afbf5eb1e3a0c528",
             "rawModeData": ""
         },
         {
-            "id": "d358bcccd9875c6f8228c2a2bfce56f3",
+            "id": "beccfa4e4e375486190c1dbb3ab8df67",
             "name": "Get Location Fees",
             "url": "http:\/\/connect.squareup.com\/\/v1\/{location_id}\/fees",
             "description": "Lists all of a location's fees (taxes).",
@@ -1608,11 +1608,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "a18b91ab48f711d8a3f2996d73ff0079",
+            "collectionId": "8d61a8634e17b514afbf5eb1e3a0c528",
             "rawModeData": ""
         },
         {
-            "id": "fe44efa68bb53aee934d84be5fb10a03",
+            "id": "5d4c087e9886c6bab279674f68257a48",
             "name": "Post Location Fees",
             "url": "http:\/\/connect.squareup.com\/\/v1\/{location_id}\/fees",
             "description": "Creates a fee (tax).",
@@ -1639,11 +1639,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "a18b91ab48f711d8a3f2996d73ff0079",
+            "collectionId": "8d61a8634e17b514afbf5eb1e3a0c528",
             "rawModeData": ""
         },
         {
-            "id": "3291810b46a032e8915ea7587fff537d",
+            "id": "979b680e4ca3da104931f78941fb2476",
             "name": "Delete Location Fees",
             "url": "http:\/\/connect.squareup.com\/\/v1\/{location_id}\/fees\/{fee_id}",
             "description": "Deletes an existing fee (tax).",
@@ -1677,11 +1677,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "a18b91ab48f711d8a3f2996d73ff0079",
+            "collectionId": "8d61a8634e17b514afbf5eb1e3a0c528",
             "rawModeData": ""
         },
         {
-            "id": "0501ba9d1f49d09f19b867db62757871",
+            "id": "366c862444c059d6a5f129e7e90560f5",
             "name": "Put Location Fees",
             "url": "http:\/\/connect.squareup.com\/\/v1\/{location_id}\/fees\/{fee_id}",
             "description": "Modifies the details of an existing fee (tax).",
@@ -1715,11 +1715,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "a18b91ab48f711d8a3f2996d73ff0079",
+            "collectionId": "8d61a8634e17b514afbf5eb1e3a0c528",
             "rawModeData": ""
         },
         {
-            "id": "f5f4cf7645e15911d19349a64b90375e",
+            "id": "e22c29c8a80f5b73a0445774ca5176d4",
             "name": "Get Location Inventory",
             "url": "http:\/\/connect.squareup.com\/\/v1\/{location_id}\/inventory",
             "description": "Provides inventory information for all of a merchant's inventory-enabled item variations.",
@@ -1760,11 +1760,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "a18b91ab48f711d8a3f2996d73ff0079",
+            "collectionId": "8d61a8634e17b514afbf5eb1e3a0c528",
             "rawModeData": ""
         },
         {
-            "id": "492d8630627b6d8b2e58fa392210338b",
+            "id": "922d7a3791fa8c4af79ef1ec3320b00d",
             "name": "Post Location Inventory Variation",
             "url": "http:\/\/connect.squareup.com\/\/v1\/{location_id}\/inventory\/{variation_id}",
             "description": "Adjusts an item variation's current available inventory.",
@@ -1798,11 +1798,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "a18b91ab48f711d8a3f2996d73ff0079",
+            "collectionId": "8d61a8634e17b514afbf5eb1e3a0c528",
             "rawModeData": ""
         },
         {
-            "id": "b06107a91f569a21b50340b270d7ca19",
+            "id": "960a8057255b5cd0ebc2797b43555bbd",
             "name": "Get Location Items",
             "url": "http:\/\/connect.squareup.com\/\/v1\/{location_id}\/items",
             "description": "Provides summary information for all of a location's items.",
@@ -1836,11 +1836,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "a18b91ab48f711d8a3f2996d73ff0079",
+            "collectionId": "8d61a8634e17b514afbf5eb1e3a0c528",
             "rawModeData": ""
         },
         {
-            "id": "d82f25785cd8680e84cfa7ddf1074afd",
+            "id": "d80fd58b4fbb658ec3336c4be59e94cd",
             "name": "Post Location Items",
             "url": "http:\/\/connect.squareup.com\/\/v1\/{location_id}\/items",
             "description": "Creates an item and at least one variation for it.",
@@ -1867,11 +1867,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "a18b91ab48f711d8a3f2996d73ff0079",
+            "collectionId": "8d61a8634e17b514afbf5eb1e3a0c528",
             "rawModeData": ""
         },
         {
-            "id": "242ce28bacc6a8427d113bd2faf2f0a8",
+            "id": "10e54100c4a9c0042e426a089a6812c1",
             "name": "Delete Location Items",
             "url": "http:\/\/connect.squareup.com\/\/v1\/{location_id}\/items\/{item_id}",
             "description": "Deletes an existing item and all item variations associated with it.",
@@ -1905,11 +1905,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "a18b91ab48f711d8a3f2996d73ff0079",
+            "collectionId": "8d61a8634e17b514afbf5eb1e3a0c528",
             "rawModeData": ""
         },
         {
-            "id": "0e6ac4764bd8b70523b71db362a17d14",
+            "id": "0f78aa2d17e1fdc87a528f80b8e5fdee",
             "name": "Get Location Items",
             "url": "http:\/\/connect.squareup.com\/\/v1\/{location_id}\/items\/{item_id}",
             "description": "Provides the details for a single item, including associated modifier lists and fees.",
@@ -1943,11 +1943,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "a18b91ab48f711d8a3f2996d73ff0079",
+            "collectionId": "8d61a8634e17b514afbf5eb1e3a0c528",
             "rawModeData": ""
         },
         {
-            "id": "3713c7798023f9aff85d92de25cfda64",
+            "id": "8abf19c90b819529d0947b9618510c3d",
             "name": "Put Location Items",
             "url": "http:\/\/connect.squareup.com\/\/v1\/{location_id}\/items\/{item_id}",
             "description": "Modifies the core details of an existing item.",
@@ -1981,11 +1981,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "a18b91ab48f711d8a3f2996d73ff0079",
+            "collectionId": "8d61a8634e17b514afbf5eb1e3a0c528",
             "rawModeData": ""
         },
         {
-            "id": "6819580c7256d86c4b70addde7a584da",
+            "id": "0fbee3632ccc0a47f64a5036322e647d",
             "name": "Delete Location Items Fees",
             "url": "http:\/\/connect.squareup.com\/\/v1\/{location_id}\/items\/{item_id}\/fees\/{fee_id}",
             "description": "Removes a fee assocation from an item, meaning the fee is no longer automatically applied to the item in Square Register.",
@@ -2026,11 +2026,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "a18b91ab48f711d8a3f2996d73ff0079",
+            "collectionId": "8d61a8634e17b514afbf5eb1e3a0c528",
             "rawModeData": ""
         },
         {
-            "id": "7181a347b42c9a441db72e499d6003ed",
+            "id": "67ab1312764865eeea711d44e3855779",
             "name": "Put Location Items Fees",
             "url": "http:\/\/connect.squareup.com\/\/v1\/{location_id}\/items\/{item_id}\/fees\/{fee_id}",
             "description": "Associates a fee with an item, meaning the fee is automatically applied to the item in Square Register.",
@@ -2071,11 +2071,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "a18b91ab48f711d8a3f2996d73ff0079",
+            "collectionId": "8d61a8634e17b514afbf5eb1e3a0c528",
             "rawModeData": ""
         },
         {
-            "id": "10aebc2993851d0fe7c771a3ce4374ef",
+            "id": "16c53f71a1c69f59b45bfc5a6224b245",
             "name": "Delete Location Items Modifier Lists Modifier List",
             "url": "http:\/\/connect.squareup.com\/\/v1\/{location_id}\/items\/{item_id}\/modifier-lists\/{modifier_list_id}",
             "description": "Removes a modifier list association from an item, meaning modifier options from the list can no longer be applied to the item.",
@@ -2116,11 +2116,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "a18b91ab48f711d8a3f2996d73ff0079",
+            "collectionId": "8d61a8634e17b514afbf5eb1e3a0c528",
             "rawModeData": ""
         },
         {
-            "id": "df8f90d8cbb455b9a90c46cb14052b2a",
+            "id": "fe64cb50171781d2cde2ae039aa305e2",
             "name": "Put Location Items Modifier Lists Modifier List",
             "url": "http:\/\/connect.squareup.com\/\/v1\/{location_id}\/items\/{item_id}\/modifier-lists\/{modifier_list_id}",
             "description": "Associates a modifier list with an item, meaning modifier options from the list can be applied to the item.",
@@ -2161,11 +2161,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "a18b91ab48f711d8a3f2996d73ff0079",
+            "collectionId": "8d61a8634e17b514afbf5eb1e3a0c528",
             "rawModeData": ""
         },
         {
-            "id": "f9ef3080760919937e66a46e9c99c318",
+            "id": "64f2f6ba33519a76d464d1fe39e99d73",
             "name": "Post Location Items Variations",
             "url": "http:\/\/connect.squareup.com\/\/v1\/{location_id}\/items\/{item_id}\/variations",
             "description": "Creates an item variation for an existing item.",
@@ -2199,11 +2199,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "a18b91ab48f711d8a3f2996d73ff0079",
+            "collectionId": "8d61a8634e17b514afbf5eb1e3a0c528",
             "rawModeData": ""
         },
         {
-            "id": "03382d46f14d10eb25997c3fb858f1eb",
+            "id": "683f0c4998974bf4db8fd1528949595e",
             "name": "Delete Location Items Variations",
             "url": "http:\/\/connect.squareup.com\/\/v1\/{location_id}\/items\/{item_id}\/variations\/{variation_id}",
             "description": "Deletes an existing item variation from an item.",
@@ -2244,11 +2244,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "a18b91ab48f711d8a3f2996d73ff0079",
+            "collectionId": "8d61a8634e17b514afbf5eb1e3a0c528",
             "rawModeData": ""
         },
         {
-            "id": "424433bb44fc1e17256cf6bba50e9d6e",
+            "id": "42b937b0cb6e3b5675cdf27ff253ad4e",
             "name": "Put Location Items Variations",
             "url": "http:\/\/connect.squareup.com\/\/v1\/{location_id}\/items\/{item_id}\/variations\/{variation_id}",
             "description": "Modifies the details of an existing item variation.",
@@ -2289,11 +2289,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "a18b91ab48f711d8a3f2996d73ff0079",
+            "collectionId": "8d61a8634e17b514afbf5eb1e3a0c528",
             "rawModeData": ""
         },
         {
-            "id": "e30abb244bd53a35ba83bb80b7c5916b",
+            "id": "4eb44d8d9b27008885ddb996e8593157",
             "name": "Get Location Modifier Lists",
             "url": "http:\/\/connect.squareup.com\/\/v1\/{location_id}\/modifier-lists",
             "description": "Lists all of a location's modifier lists.",
@@ -2320,11 +2320,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "a18b91ab48f711d8a3f2996d73ff0079",
+            "collectionId": "8d61a8634e17b514afbf5eb1e3a0c528",
             "rawModeData": ""
         },
         {
-            "id": "175fedd2a541f74b8b9dce1cfa40295f",
+            "id": "5976635d50c770ed4370339f31ad36f1",
             "name": "Post Location Modifier Lists",
             "url": "http:\/\/connect.squareup.com\/\/v1\/{location_id}\/modifier-lists",
             "description": "Creates an item modifier list and at least one modifier option for it.",
@@ -2351,11 +2351,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "a18b91ab48f711d8a3f2996d73ff0079",
+            "collectionId": "8d61a8634e17b514afbf5eb1e3a0c528",
             "rawModeData": ""
         },
         {
-            "id": "1d5178e1fe0b54851c4d04eecde54f68",
+            "id": "122bc4e18cb72b3882e2b18a5b95017a",
             "name": "Delete Location Modifier Lists Modifier List",
             "url": "http:\/\/connect.squareup.com\/\/v1\/{location_id}\/modifier-lists\/{modifier_list_id}",
             "description": "Deletes an existing item modifier list and all modifier options associated with it.",
@@ -2389,11 +2389,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "a18b91ab48f711d8a3f2996d73ff0079",
+            "collectionId": "8d61a8634e17b514afbf5eb1e3a0c528",
             "rawModeData": ""
         },
         {
-            "id": "9349c94ab5e65198a63d85183cebf55e",
+            "id": "ed266d238c7584307cee9cf4227b2e28",
             "name": "Get Location Modifier Lists Modifier List",
             "url": "http:\/\/connect.squareup.com\/\/v1\/{location_id}\/modifier-lists\/{modifier_list_id}",
             "description": "Provides the details for a single modifier list.",
@@ -2427,11 +2427,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "a18b91ab48f711d8a3f2996d73ff0079",
+            "collectionId": "8d61a8634e17b514afbf5eb1e3a0c528",
             "rawModeData": ""
         },
         {
-            "id": "724c462d7df02afa4f4dc2e667ed97be",
+            "id": "c5393ee5c3aeb96162d8e0472f601f68",
             "name": "Put Location Modifier Lists Modifier List",
             "url": "http:\/\/connect.squareup.com\/\/v1\/{location_id}\/modifier-lists\/{modifier_list_id}",
             "description": "Modifies the details of an existing item modifier list.",
@@ -2465,11 +2465,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "a18b91ab48f711d8a3f2996d73ff0079",
+            "collectionId": "8d61a8634e17b514afbf5eb1e3a0c528",
             "rawModeData": ""
         },
         {
-            "id": "3116029988a84644ce7c5327d1d0470f",
+            "id": "216d99bc6794c0c30e548b7b83150d33",
             "name": "Post Location Modifier Lists Modifier List Modifier Options",
             "url": "http:\/\/connect.squareup.com\/\/v1\/{location_id}\/modifier-lists\/{modifier_list_id}\/modifier-options",
             "description": "Creates an item modifier option and adds it to a modifier list.",
@@ -2503,11 +2503,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "a18b91ab48f711d8a3f2996d73ff0079",
+            "collectionId": "8d61a8634e17b514afbf5eb1e3a0c528",
             "rawModeData": ""
         },
         {
-            "id": "2962f68869b564a9102ab5d66e789180",
+            "id": "f218e6f803185871325af0cf30931255",
             "name": "Delete Location Modifier Lists Modifier List Modifier Options Modifier Option",
             "url": "http:\/\/connect.squareup.com\/\/v1\/{location_id}\/modifier-lists\/{modifier_list_id}\/modifier-options\/{modifier_option_id}",
             "description": "Deletes an existing item modifier option from a modifier list.",
@@ -2548,11 +2548,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "a18b91ab48f711d8a3f2996d73ff0079",
+            "collectionId": "8d61a8634e17b514afbf5eb1e3a0c528",
             "rawModeData": ""
         },
         {
-            "id": "a708460d869cc7e72b993e9caa500ba2",
+            "id": "57d0bf615a94f5d171beb3260773a959",
             "name": "Put Location Modifier Lists Modifier List Modifier Options Modifier Option",
             "url": "http:\/\/connect.squareup.com\/\/v1\/{location_id}\/modifier-lists\/{modifier_list_id}\/modifier-options\/{modifier_option_id}",
             "description": "Modifies the details of an existing item modifier option.",
@@ -2593,11 +2593,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "a18b91ab48f711d8a3f2996d73ff0079",
+            "collectionId": "8d61a8634e17b514afbf5eb1e3a0c528",
             "rawModeData": ""
         },
         {
-            "id": "b87e1f5c30f254dd64f81fbb309832a5",
+            "id": "5b3433e6cd3473248809283cb6321f38",
             "name": "Get Location Orders",
             "url": "http:\/\/connect.squareup.com\/\/v1\/{location_id}\/orders",
             "description": "Provides summary information for a merchant's online store orders.",
@@ -2645,11 +2645,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "a18b91ab48f711d8a3f2996d73ff0079",
+            "collectionId": "8d61a8634e17b514afbf5eb1e3a0c528",
             "rawModeData": ""
         },
         {
-            "id": "858eb1bc52a3800aabcf4269b9378a75",
+            "id": "44e2b36fae3c1708a227ddf3b686f4c9",
             "name": "Get Location Orders",
             "url": "http:\/\/connect.squareup.com\/\/v1\/{location_id}\/orders\/{order_id}",
             "description": "Provides comprehensive information for a single online store order, including the order's history.",
@@ -2683,11 +2683,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "a18b91ab48f711d8a3f2996d73ff0079",
+            "collectionId": "8d61a8634e17b514afbf5eb1e3a0c528",
             "rawModeData": ""
         },
         {
-            "id": "7eaf068ecdbefcbc6cc22461ee4bdc1f",
+            "id": "7f626dccc438a9f406c39b3be149264d",
             "name": "Put Location Orders",
             "url": "http:\/\/connect.squareup.com\/\/v1\/{location_id}\/orders\/{order_id}",
             "description": "Updates the details of an online store order. Every update you perform on an order corresponds to one of three actions:",
@@ -2721,11 +2721,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "a18b91ab48f711d8a3f2996d73ff0079",
+            "collectionId": "8d61a8634e17b514afbf5eb1e3a0c528",
             "rawModeData": ""
         },
         {
-            "id": "9034c7bb9111fd064d9276e959b46c86",
+            "id": "50ca2ef956c5114345d6f7fafdedbe95",
             "name": "Get Location Pages",
             "url": "http:\/\/connect.squareup.com\/\/v1\/{location_id}\/pages",
             "description": "Lists all of a location's Favorites pages in Square Register.",
@@ -2752,11 +2752,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "a18b91ab48f711d8a3f2996d73ff0079",
+            "collectionId": "8d61a8634e17b514afbf5eb1e3a0c528",
             "rawModeData": ""
         },
         {
-            "id": "58adb257dfeee0b2f4c05dfa81522768",
+            "id": "fe849b7a88153a17580b54a9bc81c006",
             "name": "Post Location Pages",
             "url": "http:\/\/connect.squareup.com\/\/v1\/{location_id}\/pages",
             "description": "Creates a Favorites page in Square Register.",
@@ -2783,11 +2783,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "a18b91ab48f711d8a3f2996d73ff0079",
+            "collectionId": "8d61a8634e17b514afbf5eb1e3a0c528",
             "rawModeData": ""
         },
         {
-            "id": "764402bc7f67ac1c64ae648048ee0d4c",
+            "id": "f268a59ada0b49a964acd30fd14c8e67",
             "name": "Delete Location Pages",
             "url": "http:\/\/connect.squareup.com\/\/v1\/{location_id}\/pages\/{page_id}",
             "description": "Deletes an existing Favorites page and all of its cells.",
@@ -2821,11 +2821,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "a18b91ab48f711d8a3f2996d73ff0079",
+            "collectionId": "8d61a8634e17b514afbf5eb1e3a0c528",
             "rawModeData": ""
         },
         {
-            "id": "b33a588845c7630be00e4b459e58c74e",
+            "id": "0e1392d57f9167714b4d90ba32ad47c0",
             "name": "Put Location Pages",
             "url": "http:\/\/connect.squareup.com\/\/v1\/{location_id}\/pages\/{page_id}",
             "description": "Modifies the details of a Favorites page in Square Register.",
@@ -2859,11 +2859,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "a18b91ab48f711d8a3f2996d73ff0079",
+            "collectionId": "8d61a8634e17b514afbf5eb1e3a0c528",
             "rawModeData": ""
         },
         {
-            "id": "b7931e242fc538570c1193e4688d7e1c",
+            "id": "c27c4e5420e48229e55bdfc5c26f4edd",
             "name": "Delete Location Pages Cells",
             "url": "http:\/\/connect.squareup.com\/\/v1\/{location_id}\/pages\/{page_id}\/cells",
             "description": "Deletes a cell from a Favorites page in Square Register.",
@@ -2911,11 +2911,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "a18b91ab48f711d8a3f2996d73ff0079",
+            "collectionId": "8d61a8634e17b514afbf5eb1e3a0c528",
             "rawModeData": ""
         },
         {
-            "id": "7499274b4ba86aae35e700af42624d6f",
+            "id": "39b105fc0a5c2a1a793be3eb4cae3948",
             "name": "Put Location Pages Cells",
             "url": "http:\/\/connect.squareup.com\/\/v1\/{location_id}\/pages\/{page_id}\/cells",
             "description": "Modifies a cell of a Favorites page in Square Register.",
@@ -2949,11 +2949,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "a18b91ab48f711d8a3f2996d73ff0079",
+            "collectionId": "8d61a8634e17b514afbf5eb1e3a0c528",
             "rawModeData": ""
         },
         {
-            "id": "864433a1230c22827fee121b4c758e53",
+            "id": "e16e97d866a1470a0773e3ef6386e9b4",
             "name": "Get Location Payments",
             "url": "http:\/\/connect.squareup.com\/\/v1\/{location_id}\/payments",
             "description": "Provides summary information for all payments taken by a merchant or any of the merchant's mobile staff during a date range. Date ranges cannot exceed one year in length. See Date ranges for details of inclusive and exclusive dates.",
@@ -3015,11 +3015,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "a18b91ab48f711d8a3f2996d73ff0079",
+            "collectionId": "8d61a8634e17b514afbf5eb1e3a0c528",
             "rawModeData": ""
         },
         {
-            "id": "7cc48c4418cb574b0d4534b56e2e1186",
+            "id": "3271e4c926a14cdcc8f95d8e9326c6bc",
             "name": "Get Location Payments",
             "url": "http:\/\/connect.squareup.com\/\/v1\/{location_id}\/payments\/{payment_id}",
             "description": "Provides comprehensive information for a single payment.",
@@ -3053,11 +3053,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "a18b91ab48f711d8a3f2996d73ff0079",
+            "collectionId": "8d61a8634e17b514afbf5eb1e3a0c528",
             "rawModeData": ""
         },
         {
-            "id": "2fda76dbe3e0cc566591e257141f281d",
+            "id": "a9b7e5e18897bfe5f0bd1aecfda58553",
             "name": "Get Location Refunds",
             "url": "http:\/\/connect.squareup.com\/\/v1\/{location_id}\/refunds",
             "description": "Provides the details for all refunds initiated by a merchant or any of the merchant's mobile staff during a date range. Date ranges cannot exceed one year in length.",
@@ -3119,11 +3119,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "a18b91ab48f711d8a3f2996d73ff0079",
+            "collectionId": "8d61a8634e17b514afbf5eb1e3a0c528",
             "rawModeData": ""
         },
         {
-            "id": "3af0bee01c941b033b9ec198908d3232",
+            "id": "fcca046ad703135106af7ee2f73b0f8f",
             "name": "Post Location Refunds",
             "url": "http:\/\/connect.squareup.com\/\/v1\/{location_id}\/refunds",
             "description": "Issues a refund for a previously processed payment. You must issue a refund within 60 days of the associated payment.",
@@ -3150,11 +3150,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "a18b91ab48f711d8a3f2996d73ff0079",
+            "collectionId": "8d61a8634e17b514afbf5eb1e3a0c528",
             "rawModeData": ""
         },
         {
-            "id": "d2ba6c25ca26b574946df2b4b4578302",
+            "id": "6ece7892621da0fbd701ff799a6b20c6",
             "name": "Get Location Settlements",
             "url": "http:\/\/connect.squareup.com\/\/v1\/{location_id}\/settlements",
             "description": "Provides summary information for all deposits and withdrawals initiated by Square to a merchant's bank account during a date range. Date ranges cannot exceed one year in length. ",
@@ -3223,11 +3223,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "a18b91ab48f711d8a3f2996d73ff0079",
+            "collectionId": "8d61a8634e17b514afbf5eb1e3a0c528",
             "rawModeData": ""
         },
         {
-            "id": "627867eb3cc6bc0c35befe1cf1cb5457",
+            "id": "4b79d6b6f537471e90771f97091ba919",
             "name": "Get Location Settlements",
             "url": "http:\/\/connect.squareup.com\/\/v1\/{location_id}\/settlements\/{settlement_id}",
             "description": "Provides comprehensive information for a single settlement, including the entries that contribute to the settlement's total.",
@@ -3261,11 +3261,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "a18b91ab48f711d8a3f2996d73ff0079",
+            "collectionId": "8d61a8634e17b514afbf5eb1e3a0c528",
             "rawModeData": ""
         },
         {
-            "id": "d59bff5c2f5a42b5c38666664ec4ae14",
+            "id": "2076a94bea0aaf0f3a212a070664bbbc",
             "name": "Post Catalog Batch Delete",
             "url": "http:\/\/connect.squareup.com\/\/v2\/catalog\/batch-delete",
             "description": "Deletes a set of [CatalogItem](#type-catalogitem)s based on the\nprovided list of target IDs and returns a set of successfully deleted IDs in\nthe response. Deletion is a cascading event such that all children of the\ntargeted object are also deleted. For example, deleting a CatalogItem will\nalso delete all of its [CatalogItemVariation](#type-catalogitemvariation)\nchildren.\n\n`BatchDeleteCatalogObjects` succeeds even if only a portion of the targeted\nIDs can be deleted. The response will only includ",
@@ -3284,11 +3284,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "a18b91ab48f711d8a3f2996d73ff0079",
+            "collectionId": "8d61a8634e17b514afbf5eb1e3a0c528",
             "rawModeData": ""
         },
         {
-            "id": "876b0ffe0715287ccb26041c1fae86d8",
+            "id": "07f2c1cc141d142088e47dc16d94a059",
             "name": "Post Catalog Batch Retrieve",
             "url": "http:\/\/connect.squareup.com\/\/v2\/catalog\/batch-retrieve",
             "description": "Returns a set of objects based on the provided ID.\nEach [CatalogItem](#type-catalogitem) returned in the set includes all of its\nchild information including: all of its\n[CatalogItemVariation](#type-catalogitemvariation) objects, references to\nits [CatalogModifierList](#type-catalogmodifierlist) objects, and the ids of\nany [CatalogTax](#type-catalogtax) objects that apply to it.",
@@ -3307,11 +3307,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "a18b91ab48f711d8a3f2996d73ff0079",
+            "collectionId": "8d61a8634e17b514afbf5eb1e3a0c528",
             "rawModeData": ""
         },
         {
-            "id": "19235ae70f5044ed9572b2770cbb8cb1",
+            "id": "b0e6f95be38794945955999548daacc5",
             "name": "Post Catalog Batch Upsert",
             "url": "http:\/\/connect.squareup.com\/\/v2\/catalog\/batch-upsert",
             "description": "Creates or updates up to 10,000 target objects based on the provided\nlist of objects. The target objects are grouped into batches and each batch is\ninserted\/updated in an all-or-nothing manner. If an object within a batch is\nmalformed in some way, or violates a database constraint, the entire batch\ncontaining that item will be disregarded. However, other batches in the same\nrequest may still succeed. Each batch may contain up to 1,000 objects, and\nbatches will be processed in order as long as th",
@@ -3330,11 +3330,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "a18b91ab48f711d8a3f2996d73ff0079",
+            "collectionId": "8d61a8634e17b514afbf5eb1e3a0c528",
             "rawModeData": ""
         },
         {
-            "id": "97ef8aa4794904ab6e3b75f35cb49aeb",
+            "id": "a9fa68a2c6aaf8f56bcb1b2a383b7221",
             "name": "Get Catalog Info",
             "url": "http:\/\/connect.squareup.com\/\/v2\/catalog\/info",
             "description": "Returns information about the Square Catalog API, such as batch size\nlimits for `BatchUpsertCatalogObjects`.",
@@ -3353,11 +3353,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "a18b91ab48f711d8a3f2996d73ff0079",
+            "collectionId": "8d61a8634e17b514afbf5eb1e3a0c528",
             "rawModeData": ""
         },
         {
-            "id": "1c68c57a355e694545a8fa63f12d81fd",
+            "id": "c7e913d489680a0ebb5577a424cd124c",
             "name": "Get Catalog List",
             "url": "http:\/\/connect.squareup.com\/\/v2\/catalog\/list",
             "description": "Returns a list of [CatalogObject](#type-catalogobject)s that includes\nall objects of a set of desired types (for example, all [CatalogItem](#type-catalogitem)\nand [CatalogTax](#type-catalogtax) objects) in the catalog. The types parameter\nis specified as a comma-separated list of valid [CatalogObject](#type-catalogobject) types:\n`ITEM`, `ITEM_VARIATION`, `MODIFIER`, `MODIFIER_LIST`, `CATEGORY`, `DISCOUNT`, `TAX`.",
@@ -3391,11 +3391,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "a18b91ab48f711d8a3f2996d73ff0079",
+            "collectionId": "8d61a8634e17b514afbf5eb1e3a0c528",
             "rawModeData": ""
         },
         {
-            "id": "95c4909d055bb1afcd31feabfac6809b",
+            "id": "15c1132c5a7808ad96bcdd5eacbb4c0d",
             "name": "Post Catalog Object",
             "url": "http:\/\/connect.squareup.com\/\/v2\/catalog\/object",
             "description": "Creates or updates the target [CatalogObject](#type-catalogobject).",
@@ -3414,11 +3414,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "a18b91ab48f711d8a3f2996d73ff0079",
+            "collectionId": "8d61a8634e17b514afbf5eb1e3a0c528",
             "rawModeData": ""
         },
         {
-            "id": "92c7900663d8b0aa186af0c010ce1f31",
+            "id": "1279a8158663eb4498a16a61e36adb44",
             "name": "Delete Catalog Object",
             "url": "http:\/\/connect.squareup.com\/\/v2\/catalog\/object\/{object_id}",
             "description": "Deletes a single [CatalogObject](#type-catalogobject) based on the\nprovided ID and returns the set of successfully deleted IDs in the response.\nDeletion is a cascading event such that all children of the targeted object\nare also deleted. For example, deleting a [CatalogItem](#type-catalogitem)\nwill also delete all of its\n[CatalogItemVariation](#type-catalogitemvariation) children.",
@@ -3445,11 +3445,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "a18b91ab48f711d8a3f2996d73ff0079",
+            "collectionId": "8d61a8634e17b514afbf5eb1e3a0c528",
             "rawModeData": ""
         },
         {
-            "id": "6ff711bb1320df8635097f29a6056a5a",
+            "id": "44d05a1701a70aea31ead0c6a13a171c",
             "name": "Get Catalog Object",
             "url": "http:\/\/connect.squareup.com\/\/v2\/catalog\/object\/{object_id}",
             "description": "Returns a single [CatalogItem](#type-catalogitem) as a\n[CatalogObject](#type-catalogobject) based on the provided ID. The returned\nobject includes all of the relevant [CatalogItem](#type-catalogitem)\ninformation including: [CatalogItemVariation](#type-catalogitemvariation)\nchildren, references to its\n[CatalogModifierList](#type-catalogmodifierlist) objects, and the ids of\nany [CatalogTax](#type-catalogtax) objects that apply to it.",
@@ -3483,11 +3483,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "a18b91ab48f711d8a3f2996d73ff0079",
+            "collectionId": "8d61a8634e17b514afbf5eb1e3a0c528",
             "rawModeData": ""
         },
         {
-            "id": "35e73d1ebeefcd63bfc14eb4a526963e",
+            "id": "c8d85eaa3efb45f4cb779231d66ac0cd",
             "name": "Post Catalog Search",
             "url": "http:\/\/connect.squareup.com\/\/v2\/catalog\/search",
             "description": "Queries the targeted catalog using a variety of query types\n([CatalogQuerySortedAttribute](#type-catalogquerysortedattribute),\n([CatalogQueryExact](#type-catalogqueryexact),\n([CatalogQueryRange](#type-catalogqueryrange),\n([CatalogQueryText](#type-catalogquerytext),\n([CatalogQueryItemsForTax](#type-catalogqueryitemsfortax),\n([CatalogQueryItemsForModifierList](#type-catalogqueryitemsformodifierlist)).",
@@ -3506,11 +3506,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "a18b91ab48f711d8a3f2996d73ff0079",
+            "collectionId": "8d61a8634e17b514afbf5eb1e3a0c528",
             "rawModeData": ""
         },
         {
-            "id": "b2c4f7cc16bb66d41632c02bec57bfd6",
+            "id": "70505c8ce4a46b9cc9bcbc8535d56ef2",
             "name": "Post Catalog Update Item Modifier Lists",
             "url": "http:\/\/connect.squareup.com\/\/v2\/catalog\/update-item-modifier-lists",
             "description": "Updates the [CatalogModifierList](#type-catalogmodifierlist) objects\nthat apply to the targeted [CatalogItem](#type-catalogitem) without having\nto perform an upsert on the entire item.",
@@ -3529,11 +3529,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "a18b91ab48f711d8a3f2996d73ff0079",
+            "collectionId": "8d61a8634e17b514afbf5eb1e3a0c528",
             "rawModeData": ""
         },
         {
-            "id": "362206097740d854e64e58584eea2164",
+            "id": "cd198ac148dc82b40a5daffab23db4e1",
             "name": "Post Catalog Update Item Taxes",
             "url": "http:\/\/connect.squareup.com\/\/v2\/catalog\/update-item-taxes",
             "description": "Updates the [CatalogTax](#type-catalogtax) objects that apply to the\ntargeted [CatalogItem](#type-catalogitem) without having to perform an\nupsert on the entire item.",
@@ -3552,11 +3552,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "a18b91ab48f711d8a3f2996d73ff0079",
+            "collectionId": "8d61a8634e17b514afbf5eb1e3a0c528",
             "rawModeData": ""
         },
         {
-            "id": "191f9f28d57a28140b7db00eae7e5042",
+            "id": "ff0755ae314164fd4d653dd5da536993",
             "name": "Post Locations Checkouts",
             "url": "http:\/\/connect.squareup.com\/\/v2\/locations\/{location_id}\/checkouts",
             "description": "Creates a [Checkout](#type-checkout) response that links a\n`checkoutId` and `checkout_page_url` that customers can be directed to in\norder to provide their payment information using a payment processing\nworkflow hosted on connect.squareup.com.",
@@ -3583,7 +3583,7 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "a18b91ab48f711d8a3f2996d73ff0079",
+            "collectionId": "8d61a8634e17b514afbf5eb1e3a0c528",
             "rawModeData": ""
         }
     ]
